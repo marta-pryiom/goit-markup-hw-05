@@ -504,6 +504,7 @@ body {
 .clients.section {
   padding: 94px 0;
 }
+
 .clients.list {
   display: inline-flex;
   flex-wrap: wrap;
